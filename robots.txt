@@ -1,4 +1,3 @@
-User-agent: *
-Allow: /
+User-agent: *\nAllow: /\nSitemap: /sitemap.xml
 
 Sitemap: https://ivanoruggeri79-collab.github.io/marcellosalvia/sitemap.xml
